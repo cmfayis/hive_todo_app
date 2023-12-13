@@ -132,7 +132,7 @@ Get.back();
                       ),
                       SizedBox(
                         height: 21.0,
-                      ),
+                      ), 
                       CustomTextFormField(
                         controller: updateageController,
                         labelText: 'Age',
